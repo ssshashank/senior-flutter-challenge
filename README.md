@@ -78,6 +78,11 @@ And that's where you come in. We want you to build a feed for us. It doesn't hav
 feed, it doesn't have to be a complete feed, it doesn't even have to be a good feed. It just has to
 be a feed. A starting point. A place where we can start building our feed.
 
+If you want some data to display, or to use as inspiration, feel free to use
+our [adventure api](https://api.hyll.com/api/adventures/) as a jump off point. But also please do
+not feel limited by it, or the REST API paradigm. If you want to use GraphQL, or some other API, or
+even just a static JSON file, feel free to do so.
+
 And more importantly, it has to be a feed that we can discuss during our followup call, taking into
 account all the possible problems problems that stand between you and a perfect feed (besides the 
 time constraints). We will then discuss how you would go about solving those problems, and how you
